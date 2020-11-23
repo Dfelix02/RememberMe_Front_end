@@ -1,0 +1,9 @@
+.big_image{
+    display: flex;
+    justify-content: center;    
+}
+
+.big_image img{
+    width: 50%;
+    margin-bottom: 20px;
+}

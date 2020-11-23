@@ -1,0 +1,78 @@
+
+.container_forms{
+    max-width: 500px;
+    width: 100%;
+    padding: 50px;
+    background: white;
+    border: 10px solid #555;
+    margin-left: 28%;
+}
+.logo_forms h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    opacity: 0.6;
+    margin-bottom: 40px;
+    color: black;
+}
+h2{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: #1b1b1b;
+}
+.container_forms input{
+    width: 100%;
+    margin: 10px 0;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #555;
+}
+input:focus{
+    border-bottom: 1px solid #2196f3;
+} 
+.switch{ 
+    text-decoration: none;
+    color: #2196f3;
+    outline: none;
+    background: white;
+    border-radius: 0;
+    border-style: none;
+}
+
+.switch:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.login_register{
+    width: 100%;
+    height: 40px;
+    background: #09161d;
+    border: none;
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    margin: 15px 0;
+    color: #555;
+}
+.container .row{
+    position: relative;
+}
+.register_form{
+    background: white;
+    position: flex;
+    top: 0;
+    left: 0;
+    transition: 0.5 ease-in-out;
+}
+.register_form .toggle{
+    visibility: visible;
+    opacity: 1;
+}

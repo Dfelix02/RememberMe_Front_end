@@ -1,0 +1,17 @@
+.profile_image img{
+    width: 200px;
+    margin-right: 20px;
+}
+
+h3{
+    color: white;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: black;
+}
+.profile_container{
+    border: solid 2px;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}

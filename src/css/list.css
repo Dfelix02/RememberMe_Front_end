@@ -1,0 +1,15 @@
+.tasks_list{
+    border: solid 2px black;
+    padding-left: 35%;
+    justify-content: center;   
+    background-color: #333;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+.logo{
+    -webkit-text-stroke-width: 0.03px;
+    -webkit-text-stroke-color: white;
+}
